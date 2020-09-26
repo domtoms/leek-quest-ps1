@@ -1,2 +1,3 @@
 # leek-quest-ps1
- 2d ps1 game
+it's awful and incomplete  
+but it runs on a ps1
